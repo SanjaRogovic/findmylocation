@@ -22,7 +22,7 @@ function App() {
         <Time countryData={countryData}/>
         </Card.Text>     
         <Flag countryData={countryData} />  
-        {lat > 0 && lng > 0 ? <Map lat={lat} lng={lng} /> : null}
+        {lat !== 0 && lng !== 0 ? <Map lat={lat} lng={lng} /> : null}
        
       </Card>
     </>
