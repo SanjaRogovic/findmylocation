@@ -1,8 +1,8 @@
 import React, {useState} from "react"
-import FetchIp from "./components.jsx/FetchIp"
-import Map from './components.jsx/Map'
-import Time from "./components.jsx/Time"
-import Flag from "./components.jsx/Flag"
+import FetchIp from "./components/FetchIp"
+import Map from './components/Map'
+import Time from "./components/Time"
+import Flag from "./components/Flag"
 import Card from 'react-bootstrap/Card';
 import './App.css'
 
