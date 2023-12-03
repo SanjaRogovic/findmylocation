@@ -1,8 +1,6 @@
-# React + Vite
+# Find My Location
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://sanjarogovic.github.io/findmylocation/
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![whatismyip](https://github.com/SanjaRogovic/findmylocation/assets/74556703/44ed5ebc-b49d-46cc-8d3f-58b14f686070)
